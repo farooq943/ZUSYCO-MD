@@ -10,17 +10,17 @@
 
 
 
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : FAROOQ-MAGSI
+Creator : @darkmakerofc , @farooq-magsi-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "923168477664",
+  SUDO_NUMBERS : "923168477664,92168477664",
+  OWNER_NAME: "🌟𝐅𝐀𝐑𝐎𝐎𝐐__𝐌𝐀𝐆𝐒𝐈🌟",
+  BOT_NAME : "🌟𝐅𝐀𝐑𝐎𝐎𝐐__𝐌𝐀𝐆𝐒𝐈🌟",
+  ZUSYCO_FILE : "🌟𝐅𝐀𝐑𝐎𝐎𝐐__𝐌𝐀𝐆𝐒𝐈🌟",
   LOGOS: {
     ALIVE: 'https://telegra.ph/file/ddb46e069a51ccf773c20.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
